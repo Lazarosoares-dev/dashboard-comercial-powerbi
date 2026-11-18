@@ -1,4 +1,3 @@
-# dashboard-comercial-powerbi
 Dashboard Comercial desenvolvido com Power BI, Excel e Power Query.
 # 📊 Dashboard Comercial | Power BI
 
